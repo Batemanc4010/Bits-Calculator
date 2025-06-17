@@ -9,8 +9,8 @@ def instructions():
 
     print('''
 Instructions go here
-- instruction 1
-- instruction 2
+- type xxx to close the program
+- file types are image. integer or text
 - etc
     ''')
 
